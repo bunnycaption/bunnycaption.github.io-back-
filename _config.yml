@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bunny 字幕組
+title: 🐰Bunny 字幕組
 email: bunnycaptionhk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   廣東話中文字幕服務。唔洗來稿, 一天起貨 
